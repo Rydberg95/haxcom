@@ -15,6 +15,7 @@
   <body>
 
     <h1>Rydberg.pro</h1>
+    <p>Hej och välkommen till en fruktansvärt onödig hemsida</p>
 
     <div id="includedContent"></div>
 
