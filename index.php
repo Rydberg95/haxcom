@@ -8,12 +8,13 @@
       $("#includedContent").load("templ.php"); 
     });
     </script> 
+    <title>Rydberg.pro</title>
 
   </head>
 
   <body>
 
-    <h1>Index</h1>
+    <h1>Rydberg.pro</h1>
 
     <div id="includedContent"></div>
 
