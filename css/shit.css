@@ -1,0 +1,35 @@
+.container{
+		width: 75%;
+	}
+
+.active {
+	background-color: blue;
+	color:black;
+}
+
+h1 {
+	color: red;
+	font-size: 80pt;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 300px;
+}
+
+li a {
+	display: block;
+	width: 300px;
+	color: rgb(80,80,80);
+	text-decoration: none;
+	background-color: rgb(201,201,201);
+	font-size: 20pt;
+	padding-left: 20px;
+
+}
+
+li a:hover {
+	background-color: white;
+}
